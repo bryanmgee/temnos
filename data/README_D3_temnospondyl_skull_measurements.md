@@ -3,12 +3,12 @@
 
 This is the README documentation for TEMNOS data file 3 (D3): Temnospondyl skull measurements. This README file blends the style of a conventional software/data README file with a descriptor paper style of description. 
 
-* Current version: 1.0.0 (initial release)
-* Publication date: 2024/09/22
+* Current version: 1.1.0
+* Publication date: 2025/05/05
 
 ## Collection and standardization
 
-All data in this dataset were collected manually from the literature, with the taxonomy then standardized to a consistent framework through file D1. This includes articles, books, theses/dissertations (where available), posters, and preprints (except when novel taxa are being proposed). It records information on the individual specimens' measured or estimated skull length as well as information about the geographic and temporal occurrence. It includes over 1,700 measurements from the literature, as well as single voucher rows for taxa for which no data are presently available. The specific page/figure/table/supplemental material that provides the measurement is provided for all entries.
+All data in this dataset were collected manually from the literature, with the taxonomy then standardized to a consistent framework through file D1. This includes articles, books, theses/dissertations (where available), posters, and preprints (except when novel taxa are being proposed). It records information on the individual specimens' measured or estimated skull length as well as information about the geographic and temporal occurrence. It includes over 1,900 measurements from the literature, as well as single voucher rows for taxa for which no data are presently available. The specific page/figure/table/supplemental material that provides the measurement is provided for all entries.
 
 ## Caveats
 
@@ -18,7 +18,7 @@ As with file D2, there are a small number of specimens that have been listed for
 
 ## Planned future augmentation
 
-The following are areas where this data file is intended to be expanded. If you would like to contribute or suggest other areas, please refer to the CONTRIBUTNG.md document.
+The following are areas where this data file is intended to be expanded. If you would like to contribute or suggest other areas, please refer to the CONTRIBUTiNG.md document.
 
 * Addition of metadata indicating the nature of a measurement, including whether it is an empirical measurement or an estimate; if it is a measurement, from what landmarks; if it is an estimate, based on what element and what reference taxon/specimen/point. Certain attributes of a specimen, such as whether it is clearly distorted, are also intended to be added.
 * Addition of incomplete specimens. The preserved length of specimens is sometimes provided as well, either in isolation or with an inferred length-when-complete; adding these specimens and a field to separate complete from incomplete specimens is also planned.
