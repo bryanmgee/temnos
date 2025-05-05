@@ -3,12 +3,12 @@
 
 This is the README documentation for TEMNOS data file 4 (D4): Temnospondyl histology since 2000. This README file blends the style of a conventional software/data README file with a descriptor paper style of description. 
 
-* Current version: 1.0.0 (initial release)
-* Publication date: 2024/09/22
+* Current version: 1.1.0
+* Publication date: 2025/05/05
 
 ## Collection and standardization
 
-All data in this dataset were collected manually from the literature. This includes articles, books, theses/dissertations (where available), posters, and preprints (except when novel taxa are being proposed). It records information on the sampled material, granularized to the level of distinct skeletal regions (as a model for augmentation in file D2), as well as basic bibliographic information about the publishing article. In contrast to files D2 and D3, each separate instance of a specimen (each article) is recorded as a separate entry.
+All data in this dataset were collected manually from the literature. This includes articles, books, theses/dissertations (where available), posters, and preprints (except when novel taxa are being proposed). It records information on the sampled material, granularized to the level of distinct skeletal regions (as a model for augmentation in file D2), as well as basic bibliographic information about the publishing article. In contrast to files D2 and D3, each separate instance of a specimen (each article) is recorded as a separate entry. There are currently more than 400 entries in this dataframe.
 
 ## Caveats
 
@@ -18,7 +18,7 @@ The dataset is intentionally (and semi-arbitrarily) restricted to histological s
 
 ## Planned future augmentation
 
-The following are areas where this data file is intended to be expanded. If you would like to contribute or suggest other areas, please refer to the CONTRIBUTNG.md document.
+The following are areas where this data file is intended to be expanded. If you would like to contribute or suggest other areas, please refer to the CONTRIBUTING.md document.
 
 * Addition of metadata on sampling (e.g., completeness, sidedness of specimen; plane of sectioning; whether specimen photos are provided)
 * Addition of metadata on data provisioning (e.g., whole section images vs. only close-ups; whether data are shared in external repository)
