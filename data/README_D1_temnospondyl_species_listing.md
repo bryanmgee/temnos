@@ -4,8 +4,8 @@
 
 This is the README documentation for TEMNOS data file 1 (D1): Temnospondyl species listing. This README file blends the style of a conventional software/data README file with a descriptor paper style of description. 
 
-* Current version: 1.0.0 (initial release)
-* Publication date: 2024/09/22
+* Current version: 1.1.0
+* Publication date: 2025/05/05
 
 ## Collection and standardization
 
@@ -23,7 +23,7 @@ Some holotypes have been transferred to other collections and may presently have
 
 ## Planned future augmentation
 
-The following are areas where this data file is intended to be expanded. If you would like to contribute or suggest other areas, please refer to the CONTRIBUTNG.md document.
+The following are areas where this data file is intended to be expanded. If you would like to contribute or suggest other areas, please refer to the CONTRIBUTING.md document.
 
 * Inclusion of junior synonyms and outdated combinations, with metadata on the "authority" that first proposed a change in status of a name. Note that this work is largely completed but needs to be standardized before its release.
 * Inclusion of bibliographic information for naming papers.
