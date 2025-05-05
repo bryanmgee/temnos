@@ -25,7 +25,7 @@ Finally, standardization of the geographic, stratigraphic, and temporal occurren
 
 ## Planned future augmentation
 
-The following are areas where this data file is intended to be expanded. If you would like to contribute or suggest other areas, please refer to the CONTRIBUTNG.md document.
+The following are areas where this data file is intended to be expanded. If you would like to contribute or suggest other areas, please refer to the CONTRIBUTING.md document.
 
 * Completion of initial survey of major clades, initialization of survey for higher-level indeterminate records (e.g., Temnospondyli indet. specimens).
 * Cross-referencing against PBDB localities/occurrences to standardize location information.
