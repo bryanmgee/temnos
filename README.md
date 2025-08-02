@@ -2,9 +2,9 @@
 
 ## About
 
-This is the README documentation for the TEMNOS (Temnospondyl Evolution, Morphology, Nomenclature, and Other Stuff) database, which is maintained on [GitHub](https://github.com/bryanmgee/temnos) and then published periodically through a [Zenodo integration](https://zenodo.org/doi/10.5281/zenodo.13826801) that will contain all of the files found here. The GitHub is used for tracking of issues and feature development, while the Zenodo deposit establishes a static, permanent record that can be cited and indexed. This database is intended to be a living database that is routinely updated and expanded to become a multi-use reference for various aspects of temnospondyl study and biology, including for reuse beyond the strict confines of scholarly articles. This README file blends the style of a conventional software/data README file with a descriptor paper style of description. A preprint that contains most of the general overview and additional details on the conceptual framework and motivations for TEMNOS is maintained and periodically updated on OSF.
+This is the README documentation for the TEMNOS (Temnospondyl Evolution, Morphology, Nomenclature, and Other Stuff) database, which is maintained on [GitHub](https://github.com/bryanmgee/temnos) and then published periodically through a [Zenodo integration](https://zenodo.org/doi/10.5281/zenodo.13826801) that will contain all of the files found here. The GitHub is used for tracking of issues and feature development, while the Zenodo deposit establishes a static, permanent record that can be cited and indexed. This database is intended to be a living database that is routinely updated and expanded to become a multi-use reference for various aspects of temnospondyl study and biology, including for reuse beyond the strict confines of scholarly articles. This README file blends the style of a conventional software/data README file with a descriptor paper style of description. A [preprint](https://doi.org/10.31219/osf.io/tfrbu) that contains most of the general overview and additional details on the conceptual framework and motivations for TEMNOS is maintained and periodically updated on OSF.
 
-[![DOI](https://zenodo.org/badge/858925551.svg)](https://zenodo.org/doi/10.5281/zenodo.13826801)
+[![DOI](https://zenodo.org/badge/858925551.svg)](https://zenodo.org/doi/10.5281/zenodo.13826801) [![OSF Preprint](https://img.shields.io/badge/OSF_Preprint-3F91C5)](https://doi.org/10.31219/osf.io/tfrbu)
 
 * Current version: 1.1.0
 * Publication date: 2024/08/02
@@ -18,6 +18,7 @@ This is the README documentation for the TEMNOS (Temnospondyl Evolution, Morphol
 ## Sharing/access restrictions:
 
 * License: The database is currently published under the [CC0 license waiver](https://creativecommons.org/public-domain/cc0/), which is a public domain designation that imposes no conditions for access, reuse, or redistribution on the material.
+[![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 ## Reuse recommendations
 
