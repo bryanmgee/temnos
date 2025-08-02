@@ -4,8 +4,8 @@
 
 This is the README documentation for TEMNOS data file 2 (D2): Temnospondyl specimen listing. This README file blends the style of a conventional software/data README file with a descriptor paper style of description. 
 
-* Current version: 1.0.0 (initial release)
-* Publication date: 2024/09/22
+* Current version: 1.1.0
+* Publication date: 2024/08/02
 
 ## Collection and standardization
 
@@ -13,7 +13,7 @@ All data in this dataset were collected manually from the literature, with the t
 
 ## Caveats
 
-The same limitations of the utilized taxonomic framework that were discussed for file D1 apply here as well. The primary caveat of version 1.0.0 is that the taxonomic sampling is (intentionallly) incomplete. North American metoposaurids (mostly indeterminate material and that referred to *Anaschisma browni*), micromelerpetids, branchiosaurids, and non-stereospondyl stereospondylomorphs have not been completely surveyed due to a combination of factors, including: relatively large number of specimens (each clade includes at least several hundred published specimens and certainly thousands of total known specimens); and a skew towards relevant publications that are in non-English (particularly for the non-metoposaurids), many of which also have no digital version/record. 
+The same limitations of the utilized taxonomic framework that were discussed for file D1 apply here as well. In version 1.0.0, the taxonomic sampling was (intentionallly) incomplete. North American metoposaurids (mostly indeterminate material and that referred to *Anaschisma browni*), micromelerpetids, branchiosaurids, and non-stereospondyl stereospondylomorphs have now been fully surveyed. 
 
 Several additional caveats apply to the data that are included. Firstly, there are a small number of specimens that have been listed for different skeletal regions of different taxa in the literature (problematic duplicates; e.g., ISI A 57 has been listed as both the holotype of the lapillopsid *Manubrantlia khaki* and as a paratype of the metoposaurid *Panthasaurus maleriensis*; Yates & Sengupta, 2002; Chakravorti & Sengupta, 2018) and a different small set of specimens that are apparently not duplicates but that are catalogued with the same specimen number (usually these are within the same institution and for the same taxon; e.g., three individuals of *Trematosaurus brauni* all catalogued under MSB G 366; Schoch, 2019a). There are also a few instances in which it is unclear whether a specimen listing with a number including a hyphen or dash was a batch listing (i.e. a continuous range of many specimens) or single specimen that uses hyphenation to delineate something else (e.g., individual elements within a single specimen/individual); an example is Schoch & Milner's (2014:104) listing for *Plagioscutum ochevi*: "PIN 2430/1-79, 81-200, isolated bones from the type locality." Unless a specimen listing with this punctuation was clearly stated to be a single specimen, the listing was parsed as a continuous range (e.g., 2430/1, 2430/2, 2430/3, etc. for the above example). 
 
