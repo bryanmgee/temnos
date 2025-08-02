@@ -3,8 +3,8 @@
 
 This is the README documentation for TEMNOS data file 3 (D3): Temnospondyl skull measurements. This README file blends the style of a conventional software/data README file with a descriptor paper style of description. 
 
-* Current version: 1.0.0 (initial release)
-* Publication date: 2024/09/22
+* Current version: 1.1.0
+* Publication date: 2024/08/02
 
 ## Collection and standardization
 
